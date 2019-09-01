@@ -5,6 +5,19 @@
 }
 
 .searchBox{
-    position: relative;
-    top: 50px;
+    position: absolute;;
+    top: 290px;
+    left: 395px;
+}
+
+.googleSearchButton{
+    position: absolute;
+    top: 330px;
+    left: 580px;
+}
+
+.imFeelingLuckyButton{
+    position: absolute;
+    top: 330px;
+    left: 730px;
 }
