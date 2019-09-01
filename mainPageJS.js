@@ -1,7 +1,7 @@
 
 function handleGoogleSearch(){
-    let userValue = document.getElementById('userGoogleUserInputSearch').value;
-    console.log("User Search " + userValue);
-
+    userValue = document.getElementById('userGoogleUserInputSearch').value; 
     document.getElementById('displayUserInput').value = userValue;
 };
+
+
