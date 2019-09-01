@@ -9,7 +9,7 @@
     top: 290px;
     left: 355px;
     height: 20px;
-    font-size:14pt;
+    font-size:10pt;
 }
 
 .googleSearchButton{
@@ -30,4 +30,9 @@
     font-size: 15px;
     outline-style: none;
     outline-color: aqua;
+}
+
+.textAreaMainPage{
+    position: absolute;
+    top: 370px;
 }
