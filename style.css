@@ -1,23 +1,33 @@
 .googleLogo{
     position: relative;
-    left: 490px;
+    left: 500px;
     top: 70px;
 }
 
 .searchBox{
     position: absolute;;
     top: 290px;
-    left: 395px;
+    left: 355px;
+    height: 20px;
+    font-size:14pt;
 }
 
 .googleSearchButton{
     position: absolute;
     top: 330px;
     left: 580px;
+    border-radius: 10px;
+    font-size: 15px;
+    outline-style: none;
+    outline-color: aqua;
 }
 
 .imFeelingLuckyButton{
     position: absolute;
     top: 330px;
     left: 730px;
+    border-radius: 10px;
+    font-size: 15px;
+    outline-style: none;
+    outline-color: aqua;
 }
